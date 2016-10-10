@@ -1,0 +1,44 @@
+https://www.rewardstyle.com/
+https://wordpress.com/
+http://www.curalate.com/blog/digital-marketing-trends-in-travel-hospitality/ 
+http://www.wpvirtuoso.com/how-many-blogs-are-on-the-internet
+https://www.bcgperspectives.com/content/articles/transportation_travel_tourism_consumer_insight_traveling_with_millennials/
+http://www.usatoday.com/story/travel/2013/10/14/millenials-expedia-travel/2966959/
+https://www.curalate.com/product/like2buy/
+https://en.wikipedia.org/wiki/Affiliate_marketing
+http://www.cj.com/what-is-affiliate-marketing
+
+************************************************************
+
+BOOKING ENGINE
+
+URL: http://live.ipms247.com/index.php/page/reslogin.res_login
+Username: admin
+Password: demo1030
+Hotel Code: 81
+
+
+to get more idea about eZee Reservation's features and offerings please have a look at our exclusive product brochure at 
+http://goo.gl/tJJYHY
+
+Clientele / References:  Currently we have clients in more than 4500 clients  in 140+ countries, you can have a look at the partial list by visiting: http://www.ezeereservation.com/clients.php
+
+Video Tutorials:  We also have our product's exclusive video tutorials and same you can watch at http://goo.gl/U3wzJE.  & http://goo.gl/DrWwsR.
+
+FAQs:  In order to check the frequently asked questions related to our online booking engine please visit: http://www.ezeereservation.com/faqs.php
+
+Online Presentation / Demo: eZee also offers an interactive presentation of our products live on your PC screen, if you are interested for this then Please fill the form to schedule a presentation for you - http://ezeetechnosys.com/onlinetraining/index.php
+
+24*7 Live Support: In case if you have any queries or you haven’t been able to use the demo version, feel free to contact our “24x7 Live Support” using http://www.ezeetechnosys.com/Live_Support.html and our support executive will be able to assist you on your queries.
+
+
+************************************
+SPRING BOOT
+
+
+
+how to create SPA with spring boot ?                                    
+https://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application
+
+Spring boot reference  : http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+Spring cloud Overview : https://www.ch-open.ch/fileadmin/user_upload/events/2015/ocd2015/talk_15_Sahli.pdf
