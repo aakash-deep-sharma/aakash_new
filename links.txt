@@ -43,3 +43,12 @@ https://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-app
 
 Spring boot reference  : http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
 Spring cloud Overview : https://www.ch-open.ch/fileadmin/user_upload/events/2015/ocd2015/talk_15_Sahli.pdf
+
+
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+
+https://www.quora.com/How-does-a-tracking-pixel-work
+
+http://stackoverflow.com/questions/2313299/how-to-implement-affiliate-links-to-my-web-application
+
+https://retargeter.com/what-is-retargeting-and-how-does-it-work
