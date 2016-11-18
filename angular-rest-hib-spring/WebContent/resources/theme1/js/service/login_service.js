@@ -16,7 +16,7 @@ App.factory('LoginService',['$http','$q',function($http,$q){
 				.then(
 						function(response){
 							
-                        	
+							/*alert('2 '+response.data)*/
                             return response.data;
                         }, 
                         function(errResponse){

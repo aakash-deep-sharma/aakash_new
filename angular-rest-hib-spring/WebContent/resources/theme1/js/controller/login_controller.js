@@ -35,30 +35,26 @@ App.controller('LoginController',['$scope','$location','$cookies','LoginService'
 	};
 	
 	self.getCredentials = function(){
-		
+		/*alert('1 '+self.user)*/
 		
 		LoginService.getCredentials(self.user)
 			.then(
 					
 					function(d){
-						
+						/*alert('3 '+d)*/
 						self.user.role = d;
 						
 						if(self.user.role == 'ADMIN')
 						{
 							
-							$cookies.put('auth',d);
-							
+							$cookies.put('auth',d);		
 							$location.path('/admin');
 							
 						}
 						else if(self.user.role == 'USER')
 						{
-							
-							$cookies.put('auth',d);
-							
+							$cookies.put('auth',d);	
 							$location.path('/project');
-							
 						}
 						
 					},
